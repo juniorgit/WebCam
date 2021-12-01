@@ -1,4 +1,4 @@
-### WebCam
+### Sobre o projeto
 Captura de imagem a partir da webcam com Javascript e faz envio para o servidor com C# 
 
 ### Observações
